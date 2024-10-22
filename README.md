@@ -9,7 +9,7 @@
 - 🔭  Estudando GODOT 
 - 🔭  Estudando e aprimorando conhecimentos em SQL Oracle.
 - Obs: estudando English.
-- <a href="https://alemandira.github.io/petlove/">"Site Pet-Love"</a>
+- <a href="https://alemandira.github.io/petlove/">"Exemplo: Site Pet-Love"</a>
 
 
 ![alemandira GitHub stats](https://github-readme-stats.vercel.app/api?username=alemandira&show_icons=true&theme=algolia)
