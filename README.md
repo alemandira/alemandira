@@ -21,6 +21,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,php,vscode,godot,sqlite" />
   </a>
 </p>
+![Snake animation](https://github.com/alemandira/alemandira/blob/output/github-contribution-grid-snake.svg)
 
 
  <!--
