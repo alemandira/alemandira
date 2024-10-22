@@ -11,8 +11,8 @@
 - Obs: estudando English.
 
 
-![alemandira GitHub stats](https://github-readme-stats.vercel.app/api?username=alemandira&show_icons=true&theme=ambient_gradient)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alemandira&layout=compact&show_icons=true&theme=ambient_gradient)
+![alemandira GitHub stats](https://github-readme-stats.vercel.app/api?username=alemandira&show_icons=true&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alemandira&layout=compact&show_icons=true&theme=algolia)
  
 <p align="center">
   <a href="https://skillicons.dev">
