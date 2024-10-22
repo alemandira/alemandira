@@ -10,8 +10,8 @@
 - 🔭  Estudando e aprimorando conhecimentos em SQL Oracle.
 - Obs: estudando English.
 
-[![alemandira GitHub stats](https://github-readme-stats.vercel.app/api?username=alemandira&show_icons=true&theme=highcontrast)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alemandira&layout=compact&show_icons=true&theme=highcontrast)]
+[![alemandira GitHub stats](https://github-readme-stats.vercel.app/api?username=alemandira&show_icons=true&theme=ambient_gradient)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alemandira&layout=compact&show_icons=true&theme=ambient_gradient)]
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,vscode,godot,sqlite)](https://skillicons.dev)
 <div style="display: inline_block"><br>
   
