@@ -11,9 +11,12 @@
 - Obs: estudando English.
 
 [![alemandira GitHub stats](https://github-readme-stats.vercel.app/api?username=alemandira&show_icons=true&theme=midnight-purple)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alemandira&layout=compact&show_icons=true&theme=ambient_gradient)]
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,vscode,godot,sqlite)](https://skillicons.dev)
-<div style="display: inline_block"><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alemandira&layout=compact&show_icons=true&theme=midnight-purple)]
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,vscode,godot,sqlite" />
+  </a>
+</p>
   
   ##
 
