@@ -1,5 +1,7 @@
 ## Seja Bem Vindo! Eu sou alemandira. 👋
 
+- <a href="https://the-adventurers.com.br/">"This is the website for my book, The Adventurers."</a>
+- Visit the website and see a preview of the book The Adventures - The Chronicles of Agnar. Thank you very much.
 - 🔭  Conhecimentos em Front-End:
 - 🔭  HTML
 - 🔭  CSS
